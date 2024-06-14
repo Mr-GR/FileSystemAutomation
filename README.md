@@ -5,6 +5,18 @@ application up and running.
 
 Things you may want to cover:
 
+* Developer Check list
+
+    - Install "Ruby"
+
+    - Install "rbenv" 
+
+    - Create a folder "work" 
+
+    - Clone this project inside of the "work" 
+
+    - Check Word Document sent to you for "rbenv rails install"
+
 * Ruby version
 
 * System dependencies
